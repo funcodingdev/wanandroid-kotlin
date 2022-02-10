@@ -14,3 +14,5 @@ dependencyResolutionManagement {
 }
 rootProject.name = "wanandroid-kotlin"
 include ':app'
+include ':domain-layer'
+include ':data-layer'
